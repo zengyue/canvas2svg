@@ -1,5 +1,5 @@
 {
-  "name": "canvas2svg",
+  "name": "f2-canvas2svg",
   "version": "1.0.19",
   "description": "canvas2svg",
   "main": "canvas2svg.js",
@@ -31,5 +31,9 @@
     "karma-mocha-reporter": "^1.0.2",
     "mocha": "^2.2.5",
     "resemblejs": "^1.2.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zengyue/canvas2svg"
   }
 }
